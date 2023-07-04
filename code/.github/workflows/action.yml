@@ -1,7 +1,7 @@
 name: github-actions
 run-name: ${{ github.actor }} is created slack-api
 on: 
-  comment:
+  push:
     - catalog.yaml
 jobs:  
   check-bats-version:
