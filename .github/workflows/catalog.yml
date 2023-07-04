@@ -1,0 +1,22 @@
+
+members:
+  - name: Bracha Vecselman
+    username: brachavecselman
+    email: brachav@skyvar.co.il
+  - name: Miriam Rotenshtein
+    username: miriamrotenshtein
+    email: miriamr@skyvar.co.il
+    
+channels:
+  - name: task
+    members:
+      - Bracha Vecselman
+      - Miriam Rotenshtein
+  - name: end
+    members:
+      - Bracha Vecselman
+      - Miriam Rotenshtein
+  - name: miri
+    members:
+      - Bracha Vecselman
+      - Miriam Rotenshtein
