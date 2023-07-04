@@ -20,3 +20,7 @@ channels:
     members:
       - Bracha Vecselman
       - Miriam Rotenshtein
+  - name: slack
+    members:
+      - Bracha Vecselman
+      - Miriam Rotenshtein
